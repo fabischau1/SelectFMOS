@@ -20,13 +20,16 @@ submitBtn.addEventListener('click', () => {
       window.location.href = 'https://fabischau1.github.io/FMOS/FMOS%205%20.html';
       break;
     case 'option6':
-      window.location.href = 'https://fabischau1.github.io/FMOS/FMOS%206%20.html';
+      window.location.href = 'https://fabischau1.github.io/FMOS/FMOS%206.html';
       break;
     case 'option7':
       window.location.href = 'https://fabischau1.github.io/FMOS/FMOS%207%20.html';
       break;
     case 'option8':
-      window.location.href = 'https://fabischau1.github.io/FM_OS/';
+      window.location.href = 'https://fabischau1.github.io/FMOS/FMOS%2010%20.html';
+      break;
+	case 'option9':
+      window.location.href = 'https://fabischau1.github.io/FMOS/';
       break;
     default:
       alert('Please select an option');
